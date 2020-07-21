@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer1/main.cpp">
+			<Option target="C___Workspace"/>
+		</Unit>
+		<Unit filename="/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer2/main.cpp">
+			<Option target="C___Workspace"/>
+		</Unit>
+		<Unit filename="/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer3/main.cpp">
+			<Option target="C___Workspace"/>
+		</Unit>
+		<Unit filename="/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer1/exer1.cpp">
+			<Option target="C___Workspace"/>
+		</Unit>
+		<Unit filename="/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer2/main.cpp">
+			<Option target="C___Workspace"/>
+		</Unit>
+		<Unit filename="/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer3/main.cpp">
+			<Option target="C___Workspace"/>
+		</Unit>
 		<Unit filename="/Users/raehowe/Desktop/C++ Workspace/main.cpp">
 			<Option target="C___Workspace"/>
 		</Unit>

@@ -4,7 +4,7 @@
 
 #include "iostream"
 
-int main(){
+int main() {
     std::cout << "Please enter two numbers: " << std::endl;
 
     int a = 0, b = 0;

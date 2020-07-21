@@ -70,17 +70,107 @@ CMakeFiles/C___Workspace.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Workspace.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raehowe/Desktop/C++ Workspace/main.cpp" -o CMakeFiles/C___Workspace.dir/main.cpp.s
 
+CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.o: CMakeFiles/C___Workspace.dir/flags.make
+CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.o: ../2020.7.6/exer1/exer1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.o -c "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer1/exer1.cpp"
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer1/exer1.cpp" > CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.i
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer1/exer1.cpp" -o CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.s
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.o: CMakeFiles/C___Workspace.dir/flags.make
+CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.o: ../2020.7.6/exer2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.o -c "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer2/main.cpp"
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer2/main.cpp" > CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.i
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer2/main.cpp" -o CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.s
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.o: CMakeFiles/C___Workspace.dir/flags.make
+CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.o: ../2020.7.6/exer3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.o -c "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer3/main.cpp"
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer3/main.cpp" > CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.i
+
+CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raehowe/Desktop/C++ Workspace/2020.7.6/exer3/main.cpp" -o CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.s
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.o: CMakeFiles/C___Workspace.dir/flags.make
+CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.o: ../2020.7.21/exer1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.o -c "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer1/main.cpp"
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer1/main.cpp" > CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.i
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer1/main.cpp" -o CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.s
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.o: CMakeFiles/C___Workspace.dir/flags.make
+CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.o: ../2020.7.21/exer2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.o -c "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer2/main.cpp"
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer2/main.cpp" > CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.i
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer2/main.cpp" -o CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.s
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.o: CMakeFiles/C___Workspace.dir/flags.make
+CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.o: ../2020.7.21/exer3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.o -c "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer3/main.cpp"
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer3/main.cpp" > CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.i
+
+CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/raehowe/Desktop/C++ Workspace/2020.7.21/exer3/main.cpp" -o CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.s
+
 # Object files for target C___Workspace
 C___Workspace_OBJECTS = \
-"CMakeFiles/C___Workspace.dir/main.cpp.o"
+"CMakeFiles/C___Workspace.dir/main.cpp.o" \
+"CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.o" \
+"CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.o" \
+"CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.o" \
+"CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.o" \
+"CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.o" \
+"CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.o"
 
 # External object files for target C___Workspace
 C___Workspace_EXTERNAL_OBJECTS =
 
 C___Workspace: CMakeFiles/C___Workspace.dir/main.cpp.o
+C___Workspace: CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.o
+C___Workspace: CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.o
+C___Workspace: CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.o
+C___Workspace: CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.o
+C___Workspace: CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.o
+C___Workspace: CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.o
 C___Workspace: CMakeFiles/C___Workspace.dir/build.make
 C___Workspace: CMakeFiles/C___Workspace.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C___Workspace"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/raehowe/Desktop/C++ Workspace/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable C___Workspace"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C___Workspace.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

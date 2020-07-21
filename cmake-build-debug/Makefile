@@ -123,6 +123,168 @@ C___Workspace/fast:
 	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/build
 .PHONY : C___Workspace/fast
 
+2020.7.21/exer1/main.o: 2020.7.21/exer1/main.cpp.o
+
+.PHONY : 2020.7.21/exer1/main.o
+
+# target to build an object file
+2020.7.21/exer1/main.cpp.o:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.o
+.PHONY : 2020.7.21/exer1/main.cpp.o
+
+2020.7.21/exer1/main.i: 2020.7.21/exer1/main.cpp.i
+
+.PHONY : 2020.7.21/exer1/main.i
+
+# target to preprocess a source file
+2020.7.21/exer1/main.cpp.i:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.i
+.PHONY : 2020.7.21/exer1/main.cpp.i
+
+2020.7.21/exer1/main.s: 2020.7.21/exer1/main.cpp.s
+
+.PHONY : 2020.7.21/exer1/main.s
+
+# target to generate assembly for a file
+2020.7.21/exer1/main.cpp.s:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer1/main.cpp.s
+.PHONY : 2020.7.21/exer1/main.cpp.s
+
+2020.7.21/exer2/main.o: 2020.7.21/exer2/main.cpp.o
+
+.PHONY : 2020.7.21/exer2/main.o
+
+# target to build an object file
+2020.7.21/exer2/main.cpp.o:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.o
+.PHONY : 2020.7.21/exer2/main.cpp.o
+
+2020.7.21/exer2/main.i: 2020.7.21/exer2/main.cpp.i
+
+.PHONY : 2020.7.21/exer2/main.i
+
+# target to preprocess a source file
+2020.7.21/exer2/main.cpp.i:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.i
+.PHONY : 2020.7.21/exer2/main.cpp.i
+
+2020.7.21/exer2/main.s: 2020.7.21/exer2/main.cpp.s
+
+.PHONY : 2020.7.21/exer2/main.s
+
+# target to generate assembly for a file
+2020.7.21/exer2/main.cpp.s:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer2/main.cpp.s
+.PHONY : 2020.7.21/exer2/main.cpp.s
+
+2020.7.21/exer3/main.o: 2020.7.21/exer3/main.cpp.o
+
+.PHONY : 2020.7.21/exer3/main.o
+
+# target to build an object file
+2020.7.21/exer3/main.cpp.o:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.o
+.PHONY : 2020.7.21/exer3/main.cpp.o
+
+2020.7.21/exer3/main.i: 2020.7.21/exer3/main.cpp.i
+
+.PHONY : 2020.7.21/exer3/main.i
+
+# target to preprocess a source file
+2020.7.21/exer3/main.cpp.i:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.i
+.PHONY : 2020.7.21/exer3/main.cpp.i
+
+2020.7.21/exer3/main.s: 2020.7.21/exer3/main.cpp.s
+
+.PHONY : 2020.7.21/exer3/main.s
+
+# target to generate assembly for a file
+2020.7.21/exer3/main.cpp.s:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.21/exer3/main.cpp.s
+.PHONY : 2020.7.21/exer3/main.cpp.s
+
+2020.7.6/exer1/exer1.o: 2020.7.6/exer1/exer1.cpp.o
+
+.PHONY : 2020.7.6/exer1/exer1.o
+
+# target to build an object file
+2020.7.6/exer1/exer1.cpp.o:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.o
+.PHONY : 2020.7.6/exer1/exer1.cpp.o
+
+2020.7.6/exer1/exer1.i: 2020.7.6/exer1/exer1.cpp.i
+
+.PHONY : 2020.7.6/exer1/exer1.i
+
+# target to preprocess a source file
+2020.7.6/exer1/exer1.cpp.i:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.i
+.PHONY : 2020.7.6/exer1/exer1.cpp.i
+
+2020.7.6/exer1/exer1.s: 2020.7.6/exer1/exer1.cpp.s
+
+.PHONY : 2020.7.6/exer1/exer1.s
+
+# target to generate assembly for a file
+2020.7.6/exer1/exer1.cpp.s:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer1/exer1.cpp.s
+.PHONY : 2020.7.6/exer1/exer1.cpp.s
+
+2020.7.6/exer2/main.o: 2020.7.6/exer2/main.cpp.o
+
+.PHONY : 2020.7.6/exer2/main.o
+
+# target to build an object file
+2020.7.6/exer2/main.cpp.o:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.o
+.PHONY : 2020.7.6/exer2/main.cpp.o
+
+2020.7.6/exer2/main.i: 2020.7.6/exer2/main.cpp.i
+
+.PHONY : 2020.7.6/exer2/main.i
+
+# target to preprocess a source file
+2020.7.6/exer2/main.cpp.i:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.i
+.PHONY : 2020.7.6/exer2/main.cpp.i
+
+2020.7.6/exer2/main.s: 2020.7.6/exer2/main.cpp.s
+
+.PHONY : 2020.7.6/exer2/main.s
+
+# target to generate assembly for a file
+2020.7.6/exer2/main.cpp.s:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer2/main.cpp.s
+.PHONY : 2020.7.6/exer2/main.cpp.s
+
+2020.7.6/exer3/main.o: 2020.7.6/exer3/main.cpp.o
+
+.PHONY : 2020.7.6/exer3/main.o
+
+# target to build an object file
+2020.7.6/exer3/main.cpp.o:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.o
+.PHONY : 2020.7.6/exer3/main.cpp.o
+
+2020.7.6/exer3/main.i: 2020.7.6/exer3/main.cpp.i
+
+.PHONY : 2020.7.6/exer3/main.i
+
+# target to preprocess a source file
+2020.7.6/exer3/main.cpp.i:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.i
+.PHONY : 2020.7.6/exer3/main.cpp.i
+
+2020.7.6/exer3/main.s: 2020.7.6/exer3/main.cpp.s
+
+.PHONY : 2020.7.6/exer3/main.s
+
+# target to generate assembly for a file
+2020.7.6/exer3/main.cpp.s:
+	$(MAKE) -f CMakeFiles/C___Workspace.dir/build.make CMakeFiles/C___Workspace.dir/2020.7.6/exer3/main.cpp.s
+.PHONY : 2020.7.6/exer3/main.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +321,24 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C___Workspace"
+	@echo "... 2020.7.21/exer1/main.o"
+	@echo "... 2020.7.21/exer1/main.i"
+	@echo "... 2020.7.21/exer1/main.s"
+	@echo "... 2020.7.21/exer2/main.o"
+	@echo "... 2020.7.21/exer2/main.i"
+	@echo "... 2020.7.21/exer2/main.s"
+	@echo "... 2020.7.21/exer3/main.o"
+	@echo "... 2020.7.21/exer3/main.i"
+	@echo "... 2020.7.21/exer3/main.s"
+	@echo "... 2020.7.6/exer1/exer1.o"
+	@echo "... 2020.7.6/exer1/exer1.i"
+	@echo "... 2020.7.6/exer1/exer1.s"
+	@echo "... 2020.7.6/exer2/main.o"
+	@echo "... 2020.7.6/exer2/main.i"
+	@echo "... 2020.7.6/exer2/main.s"
+	@echo "... 2020.7.6/exer3/main.o"
+	@echo "... 2020.7.6/exer3/main.i"
+	@echo "... 2020.7.6/exer3/main.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
