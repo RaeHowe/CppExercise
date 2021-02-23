@@ -1,4 +1,1 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/raehowe/Desktop/C++ Workspace"
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/raehowe/Desktop/C++ Workspace/cmake-build-debug
+CMakeLists.txt not found in /Users/raehowe/Desktop/C++ Workspace Select CMakeLists.txt
