@@ -1,28 +1,34 @@
+pub trait Summary {
+  fn summarize(&self) -> String;
+}
+
+pub struct Post {
+  pub title: String, //标题
+  pub author: String, //作者
+  pub content: String, //内容
+}
+
+pub struct Weibo {
+  pub username: String,
+  pub content: String
+}
+
+impl Summary for Post {
+  fn summarize(&self) -> String {
+    format!("文章{}, 作者是{}", self.title, self.author)
+  }
+}
+
+impl Summary for Weibo {
+  fn summarize(&self) -> String {
+    format!("{}发表了微博{}", self.username, self.content)
+  }
+}
+
 fn main() {
-    // greet_world();
-    exec1();
-    let res = exec2(1, 2);
-    println!("{}", res);
-}
+  let post = Post{title: "Rust语言简介".to_string(),author: "Sunface".to_string(), content: "Rust棒极了!".to_string()};
+  let weibo = Weibo{username: "sunface".to_string(),content: "好像微博没Tweet好用".to_string()};
 
-fn greet_world(){
-    let southern_germany = "Grüß Gott!";
-    let chinese = "世界，你好";
-    let english = "Hello, World";
-    let regions = [southern_germany, chinese, english];
-        println!("{}", region_item)
-    }
-}
-
-fn exec1(){
-    let _a = 10;
-    let b:i64 = 100;
-    let mut c = 20;
-    c = 30;
-    let d = 40i32;
-    println!("{}", d)
-}
-
-fn exec2(a: i32, b: i32) -> i32{
-    return a + b;
+  println!("{}",post.summarize());
+  println!("{}",weibo.summarize());
 }
