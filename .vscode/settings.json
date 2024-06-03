@@ -1,7 +1,10 @@
 {
     "files.associations": {
         "limits": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "__config": "cpp",
+        "__locale": "cpp",
+        "iostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
