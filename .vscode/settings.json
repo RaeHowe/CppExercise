@@ -4,7 +4,8 @@
         "ostream": "cpp",
         "__config": "cpp",
         "__locale": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ctime": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

@@ -23,7 +23,9 @@ class Student {
             cout << "Address: " << s_address << endl;
         }
     
-        void operator+()
+        void operator+(int age){
+            s_age += age;
+        }
     private:
         string s_address;
         
@@ -37,9 +39,11 @@ int main() {
     Student s1;
     s1.s_name = "John";
     s1.s_age = 20;
-    // s1.show();
+    s1.show();
+    s1 + 1;
+    s1.show();
 
-    s1.show("123 Main St");
+    // s1.show("123 Main St");
 
     return 0;
 }
