@@ -4,8 +4,13 @@ using namespace std;
 
 class Base{
 public:
+    int b_data;
     Base(){
         cout << "Base()" << endl;
+    }
+
+    Base(int data): b_data(data){
+        cout << "Base(int data)" << endl;
     }
 
     ~Base(){
@@ -13,9 +18,10 @@ public:
     }
 };
 
-class Extend: public Base{
+ class Extend: public Base{
 public:
-    Extend(){
+    int e_data;
+    Extend(): e_data(10), Base(20){ //这里没有调用基类的默认构造函数
         cout << "Extend()" << endl;
     }
 
